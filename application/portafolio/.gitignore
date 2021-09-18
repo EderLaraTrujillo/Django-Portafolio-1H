@@ -1,0 +1,6 @@
+*.env
+.env
+/.env
+/EderLara.jpg
+*EderLara.jpg
+EderLara.jpg
